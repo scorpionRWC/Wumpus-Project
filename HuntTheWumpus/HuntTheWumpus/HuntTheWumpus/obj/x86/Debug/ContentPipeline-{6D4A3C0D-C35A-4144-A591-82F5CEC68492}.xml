@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>dodecapath.PNG</Source>
+      <Name>dodecapath</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\dodecapath.xnb</Output>
+      <Time>2016-10-14T15:29:53.8131594-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bat.PNG</Source>
+      <Name>bat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\bat.xnb</Output>
+      <Time>2016-10-14T16:24:00.5069406-05:00</Time>
+    </Item>
+    <Item>
+      <Source>pit.PNG</Source>
+      <Name>pit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\pit.xnb</Output>
+      <Time>2016-10-14T16:24:34.3227102-05:00</Time>
+    </Item>
+    <Item>
+      <Source>r1.PNG</Source>
+      <Name>r1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\r1.xnb</Output>
+      <Time>2016-10-14T15:56:30.6124169-05:00</Time>
+    </Item>
+    <Item>
+      <Source>r10.PNG</Source>
+      <Name>r10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\r10.xnb</Output>
+      <Time>2016-10-14T15:59:20.9557859-05:00</Time>
+    </Item>
+    <Item>
+      <Source>r11.PNG</Source>
+      <Name>r11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\r11.xnb</Output>
+      <Time>2016-10-14T15:59:33.5716474-05:00</Time>
+    </Item>
+    <Item>
+      <Source>r12.PNG</Source>
+      <Name>r12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\r12.xnb</Output>
+      <Time>2016-10-14T15:59:48.5906228-05:00</Time>
+    </Item>
+    <Item>
+      <Source>r13.PNG</Source>
+      <Name>r13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\r13.xnb</Output>
+      <Time>2016-10-14T16:00:02.3020629-05:00</Time>
+    </Item>
+    <Item>
+      <Source>r14.PNG</Source>
+      <Name>r14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\r14.xnb</Output>
+      <Time>2016-10-14T16:00:18.1043016-05:00</Time>
+    </Item>
+    <Item>
+      <Source>r15.PNG</Source>
+      <Name>r15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\r15.xnb</Output>
+      <Time>2016-10-14T16:00:36.7710151-05:00</Time>
+    </Item>
+    <Item>
+      <Source>r16.PNG</Source>
+      <Name>r16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\r16.xnb</Output>
+      <Time>2016-10-14T16:00:58.4690725-05:00</Time>
+    </Item>
+    <Item>
+      <Source>r17.PNG</Source>
+      <Name>r17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\r17.xnb</Output>
+      <Time>2016-10-14T16:01:13.1844711-05:00</Time>
+    </Item>
+    <Item>
+      <Source>r18.PNG</Source>
+      <Name>r18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\r18.xnb</Output>
+      <Time>2016-10-14T16:01:28.210113-05:00</Time>
+    </Item>
+    <Item>
+      <Source>r19.PNG</Source>
+      <Name>r19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\r19.xnb</Output>
+      <Time>2016-10-14T16:01:41.7303916-05:00</Time>
+    </Item>
+    <Item>
+      <Source>r2.PNG</Source>
+      <Name>r2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\r2.xnb</Output>
+      <Time>2016-10-14T15:57:06.830025-05:00</Time>
+    </Item>
+    <Item>
+      <Source>r20.PNG</Source>
+      <Name>r20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\r20.xnb</Output>
+      <Time>2016-10-14T16:01:57.4269215-05:00</Time>
+    </Item>
+    <Item>
+      <Source>r3.PNG</Source>
+      <Name>r3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\r3.xnb</Output>
+      <Time>2016-10-14T15:57:26.1629371-05:00</Time>
+    </Item>
+    <Item>
+      <Source>r4.PNG</Source>
+      <Name>r4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\r4.xnb</Output>
+      <Time>2016-10-14T15:57:52.7560532-05:00</Time>
+    </Item>
+    <Item>
+      <Source>r5.PNG</Source>
+      <Name>r5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\r5.xnb</Output>
+      <Time>2016-10-14T15:58:09.8571466-05:00</Time>
+    </Item>
+    <Item>
+      <Source>r6.PNG</Source>
+      <Name>r6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\r6.xnb</Output>
+      <Time>2016-10-14T15:58:23.7014025-05:00</Time>
+    </Item>
+    <Item>
+      <Source>r7.PNG</Source>
+      <Name>r7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\r7.xnb</Output>
+      <Time>2016-10-14T15:58:36.7579264-05:00</Time>
+    </Item>
+    <Item>
+      <Source>r8.PNG</Source>
+      <Name>r8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\r8.xnb</Output>
+      <Time>2016-10-14T15:58:52.2660667-05:00</Time>
+    </Item>
+    <Item>
+      <Source>r9.PNG</Source>
+      <Name>r9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\r9.xnb</Output>
+      <Time>2016-10-14T15:59:05.5107911-05:00</Time>
+    </Item>
+    <Item>
+      <Source>wumpus.PNG</Source>
+      <Name>wumpus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\wumpus.xnb</Output>
+      <Time>2016-10-14T16:24:59.4692706-05:00</Time>
+    </Item>
+    <Item>
+      <Source>pix.png</Source>
+      <Name>pix</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\pix.xnb</Output>
+      <Time>2016-10-15T01:51:48.0053179-05:00</Time>
+    </Item>
+    <Item>
+      <Source>CourierNew.spritefont</Source>
+      <Name>CourierNew</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\CourierNew.xnb</Output>
+      <Time>2016-10-15T21:12:09.148897-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cube.fbx</Source>
+      <Name>Cube</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\Cube.xnb</Output>
+      <Time>2016-11-08T22:42:33.7525915-06:00</Time>
+      <Dependency>
+        <Key>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\obj\x86\Debug\Cube_0.xml</Key>
+        <Value>2016-11-12T20:23:03.7698177-06:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Cube.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\obj\x86\Debug\Cube_0.xml</Output>
+      <Time>2016-11-08T22:42:33.7525915-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Cylinder.fbx</Source>
+      <Name>Cylinder</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\Cylinder.xnb</Output>
+      <Time>2016-11-19T23:09:39.0169332-06:00</Time>
+      <Dependency>
+        <Key>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\obj\x86\Debug\Cylinder_0.xml</Key>
+        <Value>2016-11-19T23:11:37.8085474-06:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Cylinder.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\obj\x86\Debug\Cylinder_0.xml</Output>
+      <Time>2016-11-19T23:09:39.0169332-06:00</Time>
+    </Item>
+    <Item>
+      <Source>black.PNG</Source>
+      <Name>black</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\black.xnb</Output>
+      <Time>2016-11-19T23:19:20.920253-06:00</Time>
+    </Item>
+    <Item>
+      <Source>white.PNG</Source>
+      <Name>white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\white.xnb</Output>
+      <Time>2016-11-24T17:22:17.6257036-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{6D4A3C0D-C35A-4144-A591-82F5CEC68492}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpusContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\riley\documents\visual studio 2015\Projects\HuntTheWumpus\HuntTheWumpus\HuntTheWumpus\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-09-20T14:05:18.3978953-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
